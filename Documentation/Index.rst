@@ -44,14 +44,18 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
    Whenever you change something and you want to see the new rendering:
    Don't forget to REFRESH YOU BROWSER. Or, even better:
    Clear the browser cache!
-   
-   
+
+
 .. note::
 
-   We are trying to compile a "how to document" manual at https://docs.typo3.org/typo3cms/HowToDocument/.
-   
-   This is still WIP at a very early stage.
-   
+   We are trying to compile a `How To Document TYPO3 Projects
+   <https://docs.typo3.org/typo3cms/HowToDocument/>`__.
+
+   **How to write reStructuredText?** is part of that manual.
+
+   It is WIP, work in progress, and at a very early stage.
+   But, nevertheless, it is probably very useful already.
+
 
 
 
