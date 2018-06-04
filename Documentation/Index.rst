@@ -48,13 +48,11 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 .. note::
 
-   We are trying to compile a `How To Document TYPO3 Projects
-   <https://docs.typo3.org/typo3cms/HowToDocument/>`__.
+   We are trying to compile a `How To Document TYPO3 Projects?
+   <https://docs.typo3.org/typo3cms/HowToDocument/>`__ manual.
+   One chapter of that manual covers **"How to write reStructuredText?"**.
 
-   **How to write reStructuredText?** is part of that manual.
-
-   It is WIP, work in progress, and at a very early stage.
-   But, nevertheless, it is probably very useful already.
+   It is WIP, work in progress, but probably very useful already.
 
 
 
