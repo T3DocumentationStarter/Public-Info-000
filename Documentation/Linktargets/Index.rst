@@ -16,7 +16,8 @@ Linktargets
    The directive `ref-targets-list` below creates an overview of the
    linktargets defined in this documentation project.
 
-   Understand: :ref:`About Intersphinx <t3wd:Intersphinx-How-to-link-to-topics-of-other-manuals>`
+   Understand: :ref:`About Intersphinx
+   <h2document:Intersphinx-How-to-link-to-topics-of-other-manuals>`
 
 
 Targets for Cross-Referencing
